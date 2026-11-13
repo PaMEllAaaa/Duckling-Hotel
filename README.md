@@ -5,7 +5,7 @@
 
 Welcome to the **Duckling Hotel** repository! This project is a comprehensive hotel booking and management system designed to facilitate seamless reservations for users and efficient management tools for administrators.
 
-## 📋 Core Functional Requirements
+## Core Functional Requirements
 
 ### User Authentication & Accounts
 * **Registration:** Users can register by specifying their name, telephone number, email, and password.
@@ -21,7 +21,7 @@ Welcome to the **Duckling Hotel** repository! This project is a comprehensive ho
 
 ---
 
-## ⭐ Extra Credit Features
+## Extra Credit Features
 
 This project includes advanced features beyond the basic requirements to enhance the system's functionality:
 
@@ -42,16 +42,16 @@ This project includes advanced features beyond the basic requirements to enhance
 
 ---
 
-## 🎥 Video Presentation
+## Video Presentation
 
 Check out the video demonstrating the system and extra credit features here:
-* **[Insert Your Extra Credit Video Link Here](#)** *(Replace '#' with your actual YouTube or Google Drive link)*
+* **https://youtu.be/zIi8qE1DWzs?si=-ViBOhxoAdEISn9p(#)** 
 
 ---
 
 ## Team Members
-* 1. Navapon Homjundee 6730265821
-* 2. Pumwaree Pipithsuksunt 6731338121
+* Navapon Homjundee 6730265821
+* Pumwaree Pipithsuksunt 6731338121
  
 ---
 *Developed for 2110503 Software Development Practice.*
